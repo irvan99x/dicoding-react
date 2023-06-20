@@ -1,6 +1,8 @@
 # Belajar Membuat Aplikasi Web dengan React
 
-Pelajari kemampuan dasar dalam membuat aplikasi React seperti element, component, props, event handling, dan state.
+Kelas ini ditujukan untuk seorang Front-End Web Developer yang ingin mengembangkan website yang komponen UI-nya reusable, deklaratif, dan bersifat reaktif
+terhadap perubahan data. Di akhir kelas ini, siswa dapat membuat aplikasi web dengan React yang memanfaatkan functional component, stateful component,
+dan controlled component.
 
 Materi yang dipelajari:
 
